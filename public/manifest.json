@@ -1,0 +1,8 @@
+{
+  "short_name": "Volumental FE test",
+  "name": "Volumental FE test",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

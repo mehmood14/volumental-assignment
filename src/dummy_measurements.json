@@ -1,0 +1,88 @@
+{
+  "data":[
+    {
+      "id":"length",
+      "title":"heel to toe length",
+      "subTitle":"Volumental",
+      "values":[
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12.0",
+        "12.5"
+      ],
+      "active":"10.5",
+      "leftDeviation":0,
+      "rightDeviation":0
+    },
+    {
+      "id":"width",
+      "title":"ball width",
+      "subTitle":"",
+      "values":[
+        "B",
+        "C",
+        "D",
+        "E",
+        "2",
+        "3"
+      ],
+      "active":"D",
+      "leftDeviation":-0.2,
+      "rightDeviation":-0.1
+    },
+    {
+      "id":"arch_height",
+      "title":"arch height",
+      "subTitle":"relative to population",
+      "values":[
+        "low",
+        "neutral",
+        "high"
+      ],
+      "active":"low",
+      "leftDeviation":-0.3,
+      "rightDeviation":0.3
+    },
+    {
+      "id":"instep_height",
+      "title":"instep height",
+      "subTitle":"relative to population",
+      "values":[
+        "low",
+        "neutral",
+        "high"
+      ],
+      "active":"neutral",
+      "leftDeviation":-0.1,
+      "rightDeviation":0.1
+    },
+    {
+      "id":"heel_width",
+      "title":"heel width",
+      "subTitle":"relative to population",
+      "values":[
+        "narrow",
+        "medium",
+        "wide"
+      ],
+      "active":"medium",
+      "leftDeviation":0,
+      "rightDeviation":-0.2
+    },
+    {
+      "id":"ball_girth",
+      "title":"ball girth",
+      "subTitle":"relative to population",
+      "values":[
+        "small",
+        "medium",
+        "large"
+      ],
+      "active":"small",
+      "leftDeviation":-0.2,
+      "rightDeviation":0
+    }
+  ]
+}
